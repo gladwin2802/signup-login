@@ -24,8 +24,10 @@ This project aims to provide a secure and seamless user registration experience 
 ## Installation
 1. Clone the repository: `git clone https://github.com/gladwin2802/signup-login.git`
 2. Navigate to the project directory: `cd signup-login`
-3. Install dependencies: `npm install`
-4. Edit the `.env` file with the required environment variables (check [Folder Structure](#folder-structure) and [Environment Variables](#environment-variables)).
+3. Install dependencies on backend:
+   `cd backend`
+   `npm install`
+6. Edit the `.env` file with the required environment variables (check [Folder Structure](#folder-structure) and [Environment Variables](#environment-variables)).
 
 ## Usage
 1. In cmd, change directory `cd <path>/signup-login/backend`
